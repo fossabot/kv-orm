@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/GregBrimble/kv-orm#readme",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.8.0",
     "@babel/preset-typescript": "^7.1.0",
     "@types/jest": "^24.0.16",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
